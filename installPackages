@@ -1,0 +1,5 @@
+#Gravar arquivo com os pacotes
+apm list --installed --bare > ~/.atom/package.list
+
+#Restaurar pacotes
+apm install --packages-file ~/.atom/package.list
