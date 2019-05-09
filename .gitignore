@@ -1,2 +1,8 @@
+#Arquivos pessoais
 .atom-socket-secret-Pronto_Digital-1.36.1
-.packages
+
+#Pacotes do atom
+packages
+
+#Nem sei o pq mas vou tirar
+compile-cache
